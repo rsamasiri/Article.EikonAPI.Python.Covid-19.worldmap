@@ -8,7 +8,8 @@ Would you like to know the number of COVID-19 cases around the world at a glance
  -  eikon 1.1.12
  -  pandas 1.3.1
  -  matplotlib 3.4.2
- -   geopandas 0.9.0
+ -  geopandas 0.9.0
+ -  pycountry
 2. The Refinitiv Eikon or Workspace must be run properly on the machine.
 You may contact your Refinitiv's representative to help you to access Refinitiv workspace/Eikon.
 3. The application key is required to connect to Refinitiv Eikon or Workspace. To generate the application, please refer to the [Eikon Data API Quick Start Guide](https://developers.refinitiv.com/en/api-catalog/eikon/eikon-data-api/quick-start)
@@ -16,6 +17,6 @@ You may contact your Refinitiv's representative to help you to access Refinitiv 
 - Python version 3.9.6
 - Required Python Packages: eikon, pandas 1.3.1, matplotlib 3.4.2, geopandas 0.9.0
 ## example output
-![image](https://user-images.githubusercontent.com/89068039/132686328-e95fb79c-6ba3-4ba0-81b5-c41e258e915a.png)
-![image](https://user-images.githubusercontent.com/89068039/132686413-923e90b9-aea1-42eb-b9b0-2c91a840eca1.png)
+![image](https://user-images.githubusercontent.com/89068039/134338329-ec1fcf57-cb8e-4b1a-81d2-e4b30ee342d3.png)
+![image](https://user-images.githubusercontent.com/89068039/134338343-37ffb5d2-1c88-4213-9c98-7e9b9900f791.png)
 
